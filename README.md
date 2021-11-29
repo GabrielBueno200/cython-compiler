@@ -15,7 +15,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 💻 About The Project
-Cython is a implementation of a small compiler developed in Python.
+Cython is an implementation of a small compiler developed in Python.
 
 Cython grammar is based in C and Python (mixed) grammars, including strong variable typing, no required parenthesis in expressions and others.
 
