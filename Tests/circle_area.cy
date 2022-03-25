@@ -2,7 +2,7 @@ number n = 3.14150;
 
 number result;
 
-print("Digite o raio:");
+printf("Digite o raio:");
 number raio = inputf();
 
 result = n*raio*raio;
